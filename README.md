@@ -1,2 +1,1 @@
-# Angular2
-Temp Angular Project. 
+# angular-2
